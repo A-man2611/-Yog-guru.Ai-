@@ -4,3 +4,4 @@ In today's digital world, and in light of the growing pandemic, many yoga instru
 
 ## Note :
 This project is under research submission, so code part is hidden (Paper will be out soon )
+![image](https://user-images.githubusercontent.com/57085869/182184134-a631ae49-16a0-41e5-90e6-4fa48467e98b.png)
